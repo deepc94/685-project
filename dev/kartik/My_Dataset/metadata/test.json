@@ -1,0 +1,17 @@
+{
+    "0000.jpg" : {
+        "shape" : "same",
+        "size" : "different",
+        "color" : "different"
+    },
+    "0001.jpg" : {
+        "shape" : "same",
+        "size" : "same",
+        "color" : "different"
+    },
+    "0002.jpg" : {
+        "shape" : "different",
+        "size" : "same",
+        "color" : "different"
+    }
+}
