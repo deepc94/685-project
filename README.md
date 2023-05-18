@@ -1,5 +1,6 @@
 # 685-project
 
+All essential code files and associated machinery, along with references to sections in the project report that uses them.
 
 <ol>
   <li>First item</li>
@@ -18,5 +19,6 @@
       <li> wNegatives.ipynb Section 7.3</li>
     </ol>
   </li>
-  <li>Fourth item</li>
+  <li> all_prompts.json: Contains a list of all AI and human generated prompts for all adjectives in the dataset. </li>
+  <li> prompt_engineering.json: Section 6.1 </li>
 </ol>
