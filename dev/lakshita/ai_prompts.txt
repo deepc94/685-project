@@ -1,0 +1,93 @@
+The image contains two objects that can be compared based on their {abs_noun}.
+Two objects are present in the image that can be distinguished based on their {abs_noun}.
+There are a pair of objects in the image that differ in {abs_noun} and can be compared.
+Two objects can be observed in the image and compared on the basis of their relative {abs_noun}.
+The image displays two objects that have a discernible difference in {abs_noun}.
+Both objects in the image can be compared using the adjective {adjective}.
+There exist two objects in the image which can be distinguished by the degree of {abs_noun}.
+A comparison can be made between the two objects in the image based on their {abs_noun}.
+The image depicts two objects, and their relative {abs_noun} can be used for comparison.
+By using the adjective {adjective}, the two objects in the image can be differentiated.
+A comparison of the objects in the image can be made based on their {abs_noun}.
+The objects in the image can be distinguished based on their varying degrees of {abs_noun}.
+By using the adjective {adjective}, it is possible to compare the objects in the image.
+There are differences in {abs_noun} between the objects in the image that allow for comparison.
+The objects in the image have varying levels of {abs_noun} that can be used for comparison.
+It is possible to differentiate between the objects in the image by comparing their {abs_noun}.
+The adjective {adjective} can be used to compare the objects depicted in the image.
+The image displays objects that can be compared using the degree of {abs_noun}.
+The relative {abs_noun} of the objects in the image can be used to draw comparisons.
+One way to differentiate the objects in the image is to compare their levels of {abs_noun} using the adjective {adjective}.
+By using the adjective {adjective}, a comparison can be drawn between the objects in the image.
+The degree of {abs_noun} can be used to distinguish and compare the objects in the image.
+There exist differences in {abs_noun} between the objects in the image that allow for comparison.
+The objects in the image can be compared and contrasted based on their varying levels of {abs_noun}.
+The adjective {adjective} can be applied to both objects in the image for comparison.
+A comparison of the objects in the image can be made using the quality of {abs_noun}.
+The relative {abs_noun} of the objects in the image can be used to evaluate and compare them.
+The degree of {abs_noun} in the objects depicted in the image can be compared using the adjective {adjective}.
+The objects in the image differ in {abs_noun} and can be compared using this attribute.
+The objects in the image can be distinguished by comparing their {abs_noun} using the adjective {adjective}.
+A comparison between the objects in the image can be drawn by using their {abs_noun}.
+The objects in the image can be distinguished from each other by the level of {abs_noun} they possess.
+The relative {abs_noun} of the objects in the image can be utilized for comparison.
+By using the attribute of {abs_noun}, the objects in the image can be compared.
+It is possible to compare the objects in the image based on their {abs_noun}.
+The degree of {abs_noun} can be used to differentiate and compare the objects in the image.
+The objects in the image can be evaluated and compared using the quality of {abs_noun}.
+The difference in {abs_noun} between the objects in the image can be used to compare them.
+Using the adjective {adjective}, it is possible to differentiate between and compare the objects in the image.
+The {abs_noun} of the objects in the image can be utilized as a means of comparison.
+Perhaps the {abs_noun} of the objects in the image can be used as a means of comparison.
+I wonder if the degree of {abs_noun} can be utilized to distinguish and compare the objects in the image.
+It is possible that the objects in the image could be compared based on their relative {abs_noun}.
+Could it be that the attribute of {abs_noun} is what sets the objects in the image apart and makes them comparable?
+One might speculate that the objects in the image differ in {abs_noun}, which could be used to draw comparisons.
+It is conceivable that the level of {abs_noun} could be utilized to differentiate and compare the objects in the image.
+If the objects in the image have varying degrees of {abs_noun}, it is plausible that they could be compared based on this attribute.
+Could it be that the quality of {abs_noun} is what allows for the comparison of the objects in the image?
+It is not out of the realm of possibility that the objects in the image could be evaluated and compared using their {abs_noun}.
+If the objects in the image differ in {abs_noun}, one might speculate that this could be used as a basis for comparison.
+The objects in the image can be compared based on their {abs_noun}.
+Comparing the {abs_noun} of the objects in the image can distinguish them from each other.
+The relative {abs_noun} of the objects in the image provides a means for comparison.
+The attribute of {abs_noun} allows for a comparison between the objects in the image.
+By using the degree of {abs_noun}, the objects in the image can be differentiated and compared.
+The level of {abs_noun} in the objects in the image can be utilized to draw comparisons.
+Comparing the objects in the image based on their {abs_noun} can provide valuable insights.
+The difference in {abs_noun} between the objects in the image can be used as a basis for comparison.
+The objects in the image can be evaluated and compared using the quality of {abs_noun}.
+The {abs_noun} of the objects in the image is a distinguishing factor that can be used for comparison.
+The objects in the image can be distinguished by the varying degrees of {abs_noun}, and the adjective {adjective} can be used for comparison.
+It is possible to compare the objects in the image by applying the adjective {adjective} to their {abs_noun} levels.
+By using the adjective {adjective}, a comparison can be made between the objects in the image based on their {abs_noun}.
+The {abs_noun} levels of the objects in the image can be compared using the adjective {adjective} to differentiate them.
+The degree of {abs_noun} of the objects in the image can be used as a basis for comparison, and the adjective {adjective} can facilitate this comparison.
+The adjective {adjective} can be applied to both objects in the image to compare and contrast their {abs_noun} levels.
+The objects in the image can be compared by using the attribute of {abs_noun} and the adjective {adjective} to distinguish between them.
+The varying {abs_noun} levels of the objects in the image can be compared using the adjective {adjective} to differentiate them.
+The objects in the image can be compared and evaluated based on their {abs_noun} levels, and the adjective {adjective} can aid in this comparison.
+The objects in the image can be compared based on their relative {abs_noun}, and the use of the adjective {adjective} can facilitate this comparison.
+One of the objects in this image is {adjective} than the other.
+The objects in this image can be compared using the word {adjective}.
+Is the object on the left {adjective} than the object on the right?
+Is the object on the right {adjective} than the object on the left?
+{adjective} is a word that can be used to compare the objects in this image.
+The objects in this image are different in terms of {adjective}.
+The object on the left is {adjective} than the object on the right.
+The object on the right is {adjective} than the object on the left.
+{adjective} is an adjective that can be used to describe the objects in this image.
+The objects in this image are {adjective}.
+{adjective} is a word that can be used to describe the difference between the objects in this image.
+The objects in this image are different in {adjective}.
+The object in the foreground is {adjective} than the object in the background.
+The object in the background is {adjective} than the object in the foreground.
+The object above is {adjective} than the object below.
+The object below is {adjective} than the object above.
+The object on the left side is {adjective} than the object on the right side.
+The object on the right side is {adjective} than the object on the left side.
+The object in the top left corner is {adjective} than the object in the bottom right corner.
+The object in the bottom right corner is {adjective} than the object in the top left corner.
+Which object in this image is {adjective}?
+Is the object on the left {adjective}?
+Is the object on the right {adjective}?
