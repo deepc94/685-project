@@ -4,7 +4,7 @@
 <ol>
   <li>First item</li>
   <li>Second item</li>
-  <li>\Prateek
+  <li>\dev\Prateek
     <ol>
       <li> all_labels contains a data frame (in pickle file format) with all of the dataset annotations </li>
        <li>DataCollateAndAgreement.ipynb: Section 4 </li>
