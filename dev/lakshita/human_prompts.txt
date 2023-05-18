@@ -1,0 +1,6 @@
+The object on one side is {adjective} than the object on the other side.
+There are two objects in the image. They can be compared using the adjective {adjective}.
+The objects in the image could be compared using the adjective "{adjective}"
+{abs_noun} could be used to compare the objects in the image
+{abs_noun} can be used to compare the objects in the image
+The objects in the image can be compared using the adjective "{adjective}"
