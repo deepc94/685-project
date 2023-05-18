@@ -3,7 +3,10 @@
 
 <ol>
   <li>First item</li>
-  <li>Second item</li>
+  <li>\dev\Lakshita</li>
+    <ol>
+      <li> prompts.py: Section 6.1</li>
+    </ol>
   <li>\dev\Prateek
     <ol>
       <li> all_labels contains a data frame (in pickle file format) with all of the dataset annotations </li>
