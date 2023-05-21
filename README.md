@@ -3,7 +3,8 @@
 All essential code files and associated machinery, along with references to sections in the project report that uses them.
 
 <ol>
-  <li>First item</li>
+  <li>adejective_testing.ipynb: Fig. 1, Sec 5.3, Sec 7.2</li>
+  <li>dev/kartik/Final_Dataset/Final_Dataset.py: Dataloader script for dataset (Sec 4)</li>
   <li>\dev\Lakshita</li>
     <ol>
       <li> prompts.py: Section 6.1</li>
